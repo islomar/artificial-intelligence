@@ -6,6 +6,10 @@
 - [PyTorch](https://pytorch.org/)
 - [TensorFlow](https://www.tensorflow.org/resources/learn-ml)
 
+## Training
+- https://saturdays.ai/master-ia-online/
+- https://unia.es/es/oferta-academica/oferta-baeza/item/introduccion-practica-a-la-inteligencia-artifical-y-al-deep-learning
+
 ## Resources
 ### Beginner
 - [Convolutional Neural Networks for Dummies](https://towardsai.net/p/deep-learning/convolutional-neural-networks-for-dummies)

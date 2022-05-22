@@ -2,9 +2,10 @@
 - My [Twitter list](https://twitter.com/i/lists/1528126038936588290)
 - https://nerealuis.es/
 
-## Technologies
+## Technologies and tools
 - [PyTorch](https://pytorch.org/)
 - [TensorFlow](https://www.tensorflow.org/resources/learn-ml)
+- [MediaPipe](https://github.com/google/mediapipe)
 
 ## Training
 - https://saturdays.ai/master-ia-online/

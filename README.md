@@ -1,6 +1,7 @@
 # Artificial Intelligence
 - My [Twitter list](https://twitter.com/i/lists/1528126038936588290)
 - https://nerealuis.es/
+- https://openai.com/
 
 ## Technologies and tools
 - [PyTorch](https://pytorch.org/)
@@ -8,13 +9,18 @@
 - [MediaPipe](https://github.com/google/mediapipe)
 
 ## Training
-- https://saturdays.ai/master-ia-online/
+- https://saturdays.ai/online/
+  - https://saturdays.ai/master-ia-online/
   - [Demo Day](https://www.youtube.com/watch?v=c3x6q36DnuU)
 - https://unia.es/es/oferta-academica/oferta-baeza/item/introduccion-practica-a-la-inteligencia-artifical-y-al-deep-learning
 - https://course.continualai.org/
 
 ## Mental health
 - https://www.aimpulsa.com/blog/inteligencia-artificial-y-salud-mental-un-binomio-que-nos-permite-adelantarnos-y-aportar-soluciones/
+
+## Software development
+- https://openai.com/blog/openai-codex/
+  - GitHub Copilot
 
 ## Resources
 ### Beginner

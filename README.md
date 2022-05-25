@@ -18,6 +18,9 @@
 - [Simple Linear Regression Tutorial for Machine Learning (ML)](https://pub.towardsai.net/calculating-simple-linear-regression-and-linear-best-fit-an-in-depth-tutorial-with-math-and-python-804a0cb23660)
 
 ### Books
+- https://www.linkedin.com/pulse/8-best-books-machine-learning-read-2021-amer-kareem/
+
+#### Manning
 - https://www.manning.com/books/grokking-artificial-intelligence-algorithms
 - https://www.manning.com/books/succeeding-with-ai
 - https://www.manning.com/books/interpretable-ai

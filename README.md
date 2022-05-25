@@ -19,6 +19,7 @@
 
 ### Books
 - https://www.linkedin.com/pulse/8-best-books-machine-learning-read-2021-amer-kareem/
+- https://www.goodreads.com/search?q=natural+language+processing&qid=ZUGlXqZTC9
 
 #### Manning
 - https://www.manning.com/books/grokking-artificial-intelligence-algorithms

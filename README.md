@@ -45,6 +45,8 @@
   - https://www.manning.com/books/automated-machine-learning-in-action
   - https://www.manning.com/books/models-and-algorithms-for-unsupervised-learning
   - https://www.manning.com/books/graph-powered-machine-learning
+- Computer Vision
+  - https://www.manning.com/books/deep-learning-for-vision-systems
 
 
 ## To be read

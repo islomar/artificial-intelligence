@@ -11,6 +11,10 @@
 - https://saturdays.ai/master-ia-online/
   - [Demo Day](https://www.youtube.com/watch?v=c3x6q36DnuU)
 - https://unia.es/es/oferta-academica/oferta-baeza/item/introduccion-practica-a-la-inteligencia-artifical-y-al-deep-learning
+- https://course.continualai.org/
+
+## Mental health
+- https://www.aimpulsa.com/blog/inteligencia-artificial-y-salud-mental-un-binomio-que-nos-permite-adelantarnos-y-aportar-soluciones/
 
 ## Resources
 ### Beginner
@@ -21,6 +25,7 @@
 ### Books
 - https://www.linkedin.com/pulse/8-best-books-machine-learning-read-2021-amer-kareem/
 - https://www.goodreads.com/search?q=natural+language+processing&qid=ZUGlXqZTC9
+- https://towardsai.gumroad.com/l/descriptive-statistics
 
 #### Manning
 - https://www.manning.com/books/grokking-artificial-intelligence-algorithms

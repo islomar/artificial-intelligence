@@ -17,7 +17,7 @@
 - [Convolutional Neural Networks for Dummies](https://towardsai.net/p/deep-learning/convolutional-neural-networks-for-dummies)
 - [Simple Linear Regression Tutorial for Machine Learning (ML)](https://pub.towardsai.net/calculating-simple-linear-regression-and-linear-best-fit-an-in-depth-tutorial-with-math-and-python-804a0cb23660)
 
-## Books
+### Books
 - https://www.manning.com/books/grokking-artificial-intelligence-algorithms
 - https://www.manning.com/books/succeeding-with-ai
 - https://www.manning.com/books/interpretable-ai
@@ -44,6 +44,7 @@
   - https://www.manning.com/books/machine-learning-engineering-in-action
   - https://www.manning.com/books/automated-machine-learning-in-action
   - https://www.manning.com/books/models-and-algorithms-for-unsupervised-learning
+  - https://www.manning.com/books/graph-powered-machine-learning
 
 
 ## To be read

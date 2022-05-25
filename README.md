@@ -13,6 +13,7 @@
   - https://saturdays.ai/master-ia-online/
   - [Demo Day](https://www.youtube.com/watch?v=c3x6q36DnuU)
 - https://unia.es/es/oferta-academica/oferta-baeza/item/introduccion-practica-a-la-inteligencia-artifical-y-al-deep-learning
+- https://www.fast.ai/
 - https://course.continualai.org/
 
 ## Mental health

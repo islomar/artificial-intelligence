@@ -25,6 +25,7 @@
 
 ## Resources
 ### Beginner
+- [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI): 15 min video (look at the channel)
 - https://mailchi.mp/bonillaware/inteligencia-artificial-gpt3
 - https://beta.openai.com/overview
 - https://github.com/louisfb01/start-machine-learning

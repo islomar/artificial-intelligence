@@ -3,11 +3,13 @@
 - https://nerealuis.es/
 - https://openai.com/
 
+
 ## Technologies and tools
 - [PyTorch](https://pytorch.org/)
 - [TensorFlow](https://www.tensorflow.org/resources/learn-ml)
 - [MediaPipe](https://github.com/google/mediapipe)
 - CI/CD for Machine Learning: https://cml.dev/
+
 
 ## Training
 - https://saturdays.ai/online/
@@ -17,12 +19,15 @@
 - https://www.fast.ai/
 - https://course.continualai.org/
 
+
 ## Mental health
 - https://www.aimpulsa.com/blog/inteligencia-artificial-y-salud-mental-un-binomio-que-nos-permite-adelantarnos-y-aportar-soluciones/
+
 
 ## Software development
 - https://openai.com/blog/openai-codex/
   - GitHub Copilot
+
 
 ## Resources
 ### Beginner
@@ -68,6 +73,10 @@
   - https://www.manning.com/books/graph-powered-machine-learning
 - Computer Vision
   - https://www.manning.com/books/deep-learning-for-vision-systems
+
+
+## Conferences and events
+- https://asociacionbigdata.es/startups-inteligencia-artificial/
 
 
 ## To be read

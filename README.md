@@ -79,5 +79,9 @@
 - https://asociacionbigdata.es/startups-inteligencia-artificial/
 
 
+## Inversors and companies
+- https://gohub.tech/en/
+
+
 ## To be read
 - https://medium.com/trustyou-engineering/from-classical-nlp-to-transformers-for-aspect-based-sentiment-analysis-95691a896faa

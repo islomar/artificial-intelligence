@@ -20,8 +20,10 @@
 - https://course.continualai.org/
 
 
-## Mental health
+## Mental health and neurotechnology
 - https://www.aimpulsa.com/blog/inteligencia-artificial-y-salud-mental-un-binomio-que-nos-permite-adelantarnos-y-aportar-soluciones/
+- https://www.bitbrain.com/
+- https://neuralink.com/
 
 
 ## Software development

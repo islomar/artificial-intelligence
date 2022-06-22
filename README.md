@@ -29,6 +29,18 @@
   - GitHub Copilot
 
 
+## Conferences and events
+- https://asociacionbigdata.es/startups-inteligencia-artificial/
+
+
+## Inversors and companies
+- https://gohub.tech/en/
+
+
+## Ethics and auditing
+- https://www.eticasconsulting.com/wp-content/uploads/2021/01/Eticas-consulting.pdf
+
+
 ## Resources
 ### Beginner
 - [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI): 15 min video (look at the channel)
@@ -73,14 +85,6 @@
   - https://www.manning.com/books/graph-powered-machine-learning
 - Computer Vision
   - https://www.manning.com/books/deep-learning-for-vision-systems
-
-
-## Conferences and events
-- https://asociacionbigdata.es/startups-inteligencia-artificial/
-
-
-## Inversors and companies
-- https://gohub.tech/en/
 
 
 ## To be read

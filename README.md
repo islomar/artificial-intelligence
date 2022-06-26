@@ -12,6 +12,7 @@
 
 
 ## Training
+- https://developers.google.com/machine-learning/crash-course/
 - https://saturdays.ai/online/
   - https://saturdays.ai/master-ia-online/
   - [Demo Day](https://www.youtube.com/watch?v=c3x6q36DnuU)

@@ -9,6 +9,7 @@
 - [TensorFlow](https://www.tensorflow.org/resources/learn-ml)
 - [MediaPipe](https://github.com/google/mediapipe)
 - CI/CD for Machine Learning: https://cml.dev/
+- https://teachablemachine.withgoogle.com/
 
 
 ## Training

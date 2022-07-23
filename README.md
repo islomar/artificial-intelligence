@@ -19,6 +19,7 @@
   - [Demo Day](https://www.youtube.com/watch?v=c3x6q36DnuU)
 - https://unia.es/es/oferta-academica/oferta-baeza/item/introduccion-practica-a-la-inteligencia-artifical-y-al-deep-learning
 - https://www.fast.ai/
+- https://course.fast.ai/
 - https://course.continualai.org/
 
 
@@ -47,6 +48,8 @@
 
 ## Resources
 ### Beginner
+- https://twitter.com/Suhail/status/1541276314485018625
+- https://course.fast.ai/
 - [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI): 15 min video (look at the channel)
 - https://mailchi.mp/bonillaware/inteligencia-artificial-gpt3
 - https://beta.openai.com/overview
